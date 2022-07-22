@@ -1,4 +1,5 @@
-var displayName = document.getElementById("secret");
+/* .js files add interaction to your website */
+displayName = document.getElementById("secret");
 var button = document.getElementById("myButton");
 
   button.addEventListener("click", displaySecret);
